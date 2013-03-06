@@ -1,1 +1,3 @@
 yya_git_001a.txt
+
+yya_git_002: seharusnya masuk di commit 002
